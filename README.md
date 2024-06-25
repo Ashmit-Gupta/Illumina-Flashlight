@@ -59,3 +59,8 @@ Using Dexter for runtime permission handling offers several advantages:
 - Efficient handling of multiple permission requests.
 - Options for handling permission rationales.
 - Built-in error handling capabilities.
+
+## Feedback
+
+Feel free to comment with bug reports, feature ideas, or general feedback!
+
