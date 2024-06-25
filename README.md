@@ -4,12 +4,14 @@
 
 - **Intuitive Toggle**: Effortlessly switch between flashlight on and off states.
 - **Permission Management**:The Dexter library ensures smooth handling of camera access requests.
-- **User-friendly Interface**: Clear visual feedback keeps you informed about the flashlight's status.
+- **User-friendly Interface**: Clear visual feedback informs you about the flashlight's status.
 
-## Screenshots
+## Demo
 
 
 
+
+![flashlight video resized 450](https://github.com/Ashmit-Gupta/Illumina-Flashlight/assets/124504648/440c4408-1468-4240-97d9-d4b199840ba0)
 
 
 ## Permissions
