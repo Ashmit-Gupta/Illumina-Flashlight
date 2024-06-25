@@ -8,10 +8,8 @@
 
 ## Demo
 
+![flashlight final vdo(1)](https://github.com/Ashmit-Gupta/Illumina-Flashlight/assets/124504648/f5334b10-c7e0-47bd-a4bd-38a36c408b62)
 
-
-
-![flashlight video resized 450](https://github.com/Ashmit-Gupta/Illumina-Flashlight/assets/124504648/440c4408-1468-4240-97d9-d4b199840ba0)
 
 
 ## Permissions
